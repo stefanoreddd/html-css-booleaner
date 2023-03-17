@@ -1,0 +1,23 @@
+.bg-c {
+    background-color:rgb(172, 207, 229);
+}
+
+.bg-img {
+    background-image: url(./img/pattern.png);    
+}
+
+.bg-h {
+    background-size: 30%;
+}
+
+body {
+    width: 70%;
+    margin: auto;
+}
+
+.pagetop {
+    background-image: url(./img/pattern.png);
+    background-size: 30%;
+    background-color: rgb(172, 207, 229);
+    display: block;
+}
