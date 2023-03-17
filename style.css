@@ -21,3 +21,28 @@ body {
     background-color: rgb(172, 207, 229);
     display: block;
 }
+
+.list {
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.table {
+    border: 1px white;   
+}
+
+.tr-color {
+    background-color:rgba(135, 206, 250, 0.685);
+}
+
+.th-color {
+    color: white;
+    background-color: royalblue;
+}
+
+.footer-class {
+    background-color: rgb(25, 55, 112);
+    text-align: center;
+    color: white;
+    height: 80px;
+}
